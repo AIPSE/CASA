@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/HENKI.iml" filepath="$PROJECT_DIR$/.idea/HENKI.iml" />
       <module fileurl="file://$PROJECT_DIR$/aipseLib/aipseLib.iml" filepath="$PROJECT_DIR$/aipseLib/aipseLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/Models/Cities/Helsinki/utils/buildUserProfile/buildUserProfile.iml" filepath="$PROJECT_DIR$/Models/Cities/Helsinki/utils/buildUserProfile/buildUserProfile.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Models/Util/gtfspull/gtfspull.iml" filepath="$PROJECT_DIR$/Models/Util/gtfspull/gtfspull.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Models/Utilities/gtfspull/gtfspull.iml" filepath="$PROJECT_DIR$/Models/Utilities/gtfspull/gtfspull.iml" />
     </modules>
   </component>
 </project>
