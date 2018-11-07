@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/Models/Util/gtfspull/pom.xml" />
         <option value="$PROJECT_DIR$/Models/Cities/Helsinki/utils/buildUserProfile/pom.xml" />
         <option value="$PROJECT_DIR$/aipseLib/pom.xml" />
+        <option value="$PROJECT_DIR$/../AIPSELib/pom.xml" />
+        <option value="$PROJECT_DIR$/../Models/Cities/Helsinki/utils/buildUserProfile/pom.xml" />
       </list>
     </option>
   </component>

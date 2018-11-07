@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AIGent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AIPSELib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Emissions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MATSim-Extensions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Models" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
