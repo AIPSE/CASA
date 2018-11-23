@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="aipseLib" />
         <module name="buildUserProfile" />
+        <module name="convertCounts" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="aipseLib" target="1.8" />
       <module name="buildUserProfile" target="1.8" />
+      <module name="convertCounts" target="1.8" />
       <module name="gtfspull" target="1.8" />
     </bytecodeTargetLevel>
   </component>
