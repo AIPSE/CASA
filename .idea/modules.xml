@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/../Models/Cities/Helsinki/utils/buildUserProfile/buildUserProfile.iml" filepath="$PROJECT_DIR$/../Models/Cities/Helsinki/utils/buildUserProfile/buildUserProfile.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Models/Cities/Helsinki/utils/convertCounts/convertCounts.iml" filepath="$PROJECT_DIR$/../Models/Cities/Helsinki/utils/convertCounts/convertCounts.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Models/Cities/Helsinki/utils/helsinkiUtils.iml" filepath="$PROJECT_DIR$/../Models/Cities/Helsinki/utils/helsinkiUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Models/utils/utils.iml" filepath="$PROJECT_DIR$/../Models/utils/utils.iml" />
     </modules>
   </component>
 </project>
