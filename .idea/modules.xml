@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/../AIPSELib/aipseLib.iml" filepath="$PROJECT_DIR$/../AIPSELib/aipseLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Models/Cities/Helsinki/utils/buildUserProfile/buildUserProfile.iml" filepath="$PROJECT_DIR$/../Models/Cities/Helsinki/utils/buildUserProfile/buildUserProfile.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Models/Cities/Helsinki/utils/convertCounts/convertCounts.iml" filepath="$PROJECT_DIR$/../Models/Cities/Helsinki/utils/convertCounts/convertCounts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Models/Cities/Helsinki/utils/helsinkiUtils.iml" filepath="$PROJECT_DIR$/../Models/Cities/Helsinki/utils/helsinkiUtils.iml" />
     </modules>
   </component>
 </project>

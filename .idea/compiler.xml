@@ -9,6 +9,7 @@
         <module name="aipseLib" />
         <module name="buildUserProfile" />
         <module name="convertCounts" />
+        <module name="helsinkiUtils" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="buildUserProfile" target="1.8" />
       <module name="convertCounts" target="1.8" />
       <module name="gtfspull" target="1.8" />
+      <module name="helsinkiUtils" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
