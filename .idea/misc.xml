@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/../Models/Cities/Helsinki/utils/convertCounts/pom.xml" />
         <option value="$PROJECT_DIR$/../Models/Cities/Helsinki/utils/pom.xml" />
         <option value="$PROJECT_DIR$/../Models/utils/pom.xml" />
+        <option value="$PROJECT_DIR$/../Models/Cities/utils/pom.xml" />
       </list>
     </option>
   </component>
