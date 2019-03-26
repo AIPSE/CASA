@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/../Models/Cities/Helsinki/utils/pom.xml" />
         <option value="$PROJECT_DIR$/../Models/utils/pom.xml" />
         <option value="$PROJECT_DIR$/../Models/Cities/utils/pom.xml" />
+        <option value="$PROJECT_DIR$/../AIPSELib/util/pom.xml" />
+        <option value="$PROJECT_DIR$/../AIPSELib/casa/pom.xml" />
       </list>
     </option>
   </component>

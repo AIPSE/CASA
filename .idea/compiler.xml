@@ -11,6 +11,7 @@
         <module name="cityUtils" />
         <module name="convertCounts" />
         <module name="helsinkiUtils" />
+        <module name="util" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
       <module name="convertCounts" target="1.8" />
       <module name="gtfspull" target="1.8" />
       <module name="helsinkiUtils" target="1.8" />
+      <module name="util" target="1.8" />
       <module name="utils" target="1.8" />
     </bytecodeTargetLevel>
   </component>
