@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/HENKI.iml" filepath="$PROJECT_DIR$/.idea/HENKI.iml" />
       <module fileurl="file://$PROJECT_DIR$/../AIPSELib/casa/aipseLib.iml" filepath="$PROJECT_DIR$/../AIPSELib/casa/aipseLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Models/Cities/Helsinki/utils/buildUserProfile/buildUserProfile.iml" filepath="$PROJECT_DIR$/../Models/Cities/Helsinki/utils/buildUserProfile/buildUserProfile.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Models/Cities/utils/cityUtils.iml" filepath="$PROJECT_DIR$/../Models/Cities/utils/cityUtils.iml" />
